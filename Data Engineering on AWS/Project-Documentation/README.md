@@ -3,9 +3,12 @@
 
 # Introduction & Goals
 - Hello my name is Dennis and welcome to my Data Engineering journey. For this project, I will be handling a complete data engineering project for a client on cloud platform. For this project, I will be using AWS Cloud service so let’s get the job done.
--I will build a platform, build pipelines and this will be showing the life cycle of a data engineering Job. I will start with an introduction to data engineering, if you're new to data engineering, you will get to understand the whole concept and how it works. Then we're going to go over the data set we will use for the project, it's super nice to work with and you're going to like it. Then what we're going to build a platform on top of it using some tools. 
--Next we're going to build a Pipelines, the first pipeline we're going to build is a data injection pipeline with API, Lambda and kinesis. Then we're going to build streaming pipelines to stream raw data to raw storage S3. We're going to build storage to Dynamo DB, visualization for DynamoDB with an API.  We're going to also do some streaming to redshift and a batch processing pipeline that is for bulk imports 
--Will start with the basis of Aws from scratch, then things to keep in mind, and lastly build these pipelines and after that finish with a conclusion and what I have learned. Let’s have fun
+  
+- I will build a platform, build pipelines and this will be showing the life cycle of a data engineering Job. I will start with an introduction to data engineering, if you're new to data engineering, you will get to understand the whole concept and how it works. Then we're going to go over the data set we will use for the project, it's super nice to work with and you're going to like it. Then what we're going to build a platform on top of it using some tools. 
+
+- Next we're going to build a Pipelines, the first pipeline we're going to build is a data injection pipeline with API, Lambda and kinesis. Then we're going to build streaming pipelines to stream raw data to raw storage S3. We're going to build storage to Dynamo DB, visualization for DynamoDB with an API.  We're going to also do some streaming to redshift and a batch processing pipeline that is for bulk imports 
+
+- Will start with the basis of Aws from scratch, then things to keep in mind, and lastly build these pipelines and after that finish with a conclusion and what I have learned. Let’s have fun
 
 # Definition of Data Engineering
 What is data engineering, what's the purpose of data engineering Where's the difference to software engineer and a data scientist? 
