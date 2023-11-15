@@ -170,11 +170,39 @@ We can use APIS and Tableau to visualize and create dashboards.
 
 ![image](https://github.com/DataMan7/Data-Engineering-on-AWS/assets/71377859/20f1c802-99a9-45ae-9ea7-9e5d35e7988e)
 
-#### Create Script to Send Data
-![image](https://github.com/DataMan7/Data-Engineering-on-AWS/assets/71377859/00a617c2-2c94-4fe1-a2e0-50de2cac8497)
+#### Create Script to Send Data then we  Test The Pipeline
+![image](https://github.com/DataMan7/Data-Engineering-on-AWS/assets/71377859/c01e80c5-e229-4cf7-b37c-21bfc47ca537)
 
 #### Output:
-![image](https://github.com/DataMan7/Data-Engineering-on-AWS/assets/71377859/d630df5a-d146-41a5-ad25-35885678da88)
+![image](https://github.com/DataMan7/Data-Engineering-on-AWS/assets/71377859/94500fb4-c4fa-462e-8503-7f533541b5b2)
+
+then we go to Cloudwatch in aws and check the logs and as shown below they have been found and written
+
+![image](https://github.com/DataMan7/Data-Engineering-on-AWS/assets/71377859/ae96d623-0c18-465a-addd-c454969e30cf)
+
+
+![image](https://github.com/DataMan7/Data-Engineering-on-AWS/assets/71377859/297e4208-21b2-4edf-aa9c-9607f2facf94)
+
+and when we look into the kinesis data stream:
+
+
+#Stream Processing
+## Stream To Raw S3 Storage Pipeline
+### create an s3 bucket
+
+![image](https://github.com/DataMan7/Data-Engineering-on-AWS/assets/71377859/3c23483d-3cf3-40a9-bdc7-3f9ac927c144)
+
+### Configure IAM For S3
+![image](https://github.com/DataMan7/Data-Engineering-on-AWS/assets/71377859/67d8c69d-af4c-46c3-98a4-2f9e88075be4)
+
+###  Create Lambda For S3 Insert
+Link to the code:
+
+
+
+
+
+
 
 
 
